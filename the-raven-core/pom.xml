@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+  xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  >
+
+  <parent>
+    <groupId>net.skybert</groupId>
+    <artifactId>the-raven</artifactId>
+  <version>0.1</version>
+  </parent>
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.skybert</groupId>
+  <artifactId>the-raven-core</artifactId>
+  <packaging>jar</packaging>
+  <version>0.1</version>
+
+</project>
