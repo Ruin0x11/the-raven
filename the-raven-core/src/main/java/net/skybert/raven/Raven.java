@@ -9,7 +9,7 @@ import java.util.*;
  */
 public class Raven {
   public static void main(String[] args) {
-      args.
+      args.len
     System.out.println("Hello from the Raven");
   }
 
